@@ -7,8 +7,8 @@ yarn-error.log*
 .pnp.js
 
 # Production logs and runtime files
-logs/
-*.log
+
+
 pm2.log
 pids/
 *.pid
